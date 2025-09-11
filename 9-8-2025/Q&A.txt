@@ -1,0 +1,17 @@
+1. Whats the difference between Vector and ArrayList in java?
+
+    ArrayList is Non-Synchronized whereas a vector is Synchronized and while extending the size 
+an arraylist increases its size by 50% whereas a vecotr increases it by 100%.
+
+2. Features of Java 8?
+    -Lambda Expressions
+    -Functional Interfaces (Contains only one Abstract Method)
+    -ForEach() Method
+    -Default Method
+    -Static Method
+
+
+
+
+
+

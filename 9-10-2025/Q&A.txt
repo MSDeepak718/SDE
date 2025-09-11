@@ -1,0 +1,66 @@
+1. Datatypes in java
+
+byte: 1 byte (8 bits) -128 to 127
+short: 2 bytes (16 bits) -32768 to 32767
+int: 4 bytes (32 bits) -2^31 to 2^31-1 
+long: 8 bytes (64 bits) -2^63 to 2^63-1
+float: 4 bytes (32 bits) upto 6-7 decimal points
+double: 8 bytes (64 bits) upto 15-16 deciaml points
+char: 2 bytes (16 bits)
+
+2. Exceptions in java
+
+Checked Exceptions
+
+IOException
+SQLException
+FileNotFoundException
+ClassNotFoundException
+InterruptException
+TimeoutException
+
+Unchecked Exceptions
+
+NullPointerException
+ArrayIndexOutOfBoundsException
+ArithmeticException
+IllegalArgumentException
+NoSuchElementException
+
+3. DSA 
+
+Linear Algorithms
+
+Arrays
+LinkedList
+Stack
+Queue
+
+Non-Linear Algorithms
+
+Tree
+Graph
+Heap
+HashTable
+
+Spread
+
+Trie
+Disjoint
+Segment Tree
+
+Algorithms:
+
+Sorting & Search Algorithms
+
+Graph Algorithms
+Dynamic Propogation
+Backtracking
+
+Techniques:
+
+Divide & Conquer
+Dynamic Programming
+Greedy Operations
+Backtracking
+Brute Force
